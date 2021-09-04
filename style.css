@@ -52,6 +52,8 @@ html, body{
   cursor: pointer;
   z-index: 200;
   transition: opacity 0.25s ease;
+  border: none;
+  background-color: transparent;
 }
 .button_container:hover {
   opacity: 0.4;
